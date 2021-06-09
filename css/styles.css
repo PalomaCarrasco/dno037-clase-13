@@ -11044,11 +11044,15 @@ footer.footer .social-link:hover {
 @media (min-width: 992px) {
   .masthead {
     height: 100vh;
+        color: red;
+   font-family: 'Roboto Condensed', sans-serif;
   }
   .masthead h1, .masthead .h1 {
-    font-family: 'Anton', sans-serif;
+    font-size: 5.5rem; 
+  }
+  }
+  .masthead h1, .masthead .h1 {
     font-size: 5.5rem;
-    color: red;
   }
 }
 
